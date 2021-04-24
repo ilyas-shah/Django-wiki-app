@@ -5,7 +5,7 @@
 - Python version > 3.xx should be installed in your system
 - Install Django framework if not installed already.
   > pip3 install Django
-- Install markdown2 fro markdown to html conversion.
+- Install markdown2 for markdown to html conversion.
   > pip3 install markdown2
 
 ## Run the application
